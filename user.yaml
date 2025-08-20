@@ -1,0 +1,35 @@
+- name: sivakumar
+  email: info@joindevops.com
+  addresses: #list of address
+  - type: perm
+    doorno: 123
+    street: "c camp"
+    city: kurnool
+  - type: current
+    doorno: 123
+    street: "c camp"
+    city: kurnool
+
+- name: sivakumar
+  email: info@joindevops.com
+  addresses: #list of address
+  - type: perm
+    doorno: 123
+    street: "c camp"
+    city: kurnool
+  - type: current
+    doorno: 123
+    street: "c camp"
+    city: kurnool
+
+- name: sivakumar
+  email: info@joindevops.com
+  addresses: #list of address
+  - type: perm
+    doorno: 123
+    street: "c camp"
+    city: kurnool
+  - type: current
+    doorno: 123
+    street: "c camp"
+    city: kurnool

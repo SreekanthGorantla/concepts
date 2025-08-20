@@ -1,0 +1,44 @@
+<Students>
+    <Student>
+        <name>sivakumar</name>
+        <email>info@joindevops.com</email>
+        <addresses>
+            <permaddress>
+                <doorno>123</doorno>
+                <street>gandhi nagar</street>
+            </permaddress>
+            <currentaddress>
+                <doorno>123</doorno>
+                <street>gandhi nagar</street>
+            </currentaddress>
+        </addresses>
+    </Student>
+    <Student>
+        <name>sivakumar</name>
+        <email>info@joindevops.com</email>
+        <addresses>
+            <permaddress>
+                <doorno>123</doorno>
+                <street>gandhi nagar</street>
+            </permaddress>
+            <currentaddress>
+                <doorno>123</doorno>
+                <street>gandhi nagar</street>
+            </currentaddress>
+        </addresses>
+    </Student>
+    <Student>
+        <name>sivakumar</name>
+        <email>info@joindevops.com</email>
+        <addresses>
+            <permaddress>
+                <doorno>123</doorno>
+                <street>gandhi nagar</street>
+            </permaddress>
+            <currentaddress>
+                <doorno>123</doorno>
+                <street>gandhi nagar</street>
+            </currentaddress>
+        </addresses>
+    </Student>
+</Students>

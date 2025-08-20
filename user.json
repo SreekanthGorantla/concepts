@@ -1,0 +1,20 @@
+{
+    "name": "sivakumar",
+    "emai": "info@joindevops.com",
+    "addresses":
+    [
+        {
+            "type": "perm",
+            "doorno": 123,
+            "street": "C camp",
+            "city": "kurnool"
+        },
+        {
+            "type": "current",
+            "doorno": 123,
+            "street": "C camp",
+            "city": "kurnool"
+        }
+
+    ]
+}
